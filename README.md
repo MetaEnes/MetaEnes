@@ -11,4 +11,4 @@
 
 # Discord Durum
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/507235270957989888)](https://discord.com/users/799012176257482753)
+[![Discord Presence](https://lanyard.cnrad.dev/api/799012176257482753)](https://discord.com/users/799012176257482753)
